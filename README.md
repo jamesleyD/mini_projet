@@ -11,4 +11,7 @@ pip install pandas
 
 ## Usage
 
-python3 ./Scripts/script.py
+cd ./Scripts
+
+
+python3 script.py
